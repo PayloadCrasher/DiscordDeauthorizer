@@ -7,8 +7,7 @@ This script simplifies the process of removing unauthorized applications linked 
 
 Make sure all required libraries are installed by running:
 
-bash
-
+bash:
 pip install -r requirements.txt
 
 🔒 Usage Instructions
