@@ -1,6 +1,8 @@
 Discord Deauthorizer
 
 This script simplifies the process of removing unauthorized applications linked to Discord tokens by utilizing HTTP requests to the Discord API. It employs multithreading to enhance performance and efficiently handles both successful and unsuccessful operations.
+
+
 ❗ Prerequisites
 
 Make sure all required libraries are installed by running:
