@@ -1,0 +1,5 @@
+json
+ctypes
+requests
+concurrent.futures
+colorama
