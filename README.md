@@ -1,0 +1,2 @@
+# DiscordDeauthorizer
+Discord Deauthorizer
